@@ -137,11 +137,7 @@ Go to:
 - LinkedIn  
 - Marketing ads  
 
----
 
-
-
----
 
 # 🔁 FINAL CLASS CHALLENGE
 
