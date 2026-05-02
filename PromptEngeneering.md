@@ -128,4 +128,26 @@ for a student in Kenya with no capital (Context).
 Give step-by-step explanation (Output).”
 
 
+## Role 
+        Teaacher
+        Bussines Exeprt
+        Doctor 
+        Developer 
+        Marketer
+## TASK 
+    Explain 
+    Create
+    Analyze
+    Sugest
+ ## Context 
+    Location 
+    Audience  (beginer)
+    Budget
+    Goal
+
+## Output Formula 
+        list
+        step step
+        Table
+        Short Paragraph 
 
